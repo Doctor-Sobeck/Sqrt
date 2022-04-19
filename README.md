@@ -1,3 +1,3 @@
-This was just a fun little project, I don't know how accurate it is.
+Python program that approximates sqrt(n).
 
 More info on square roots: https://en.wikipedia.org/wiki/Square_root

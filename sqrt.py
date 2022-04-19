@@ -4,7 +4,7 @@ def sqrt(n):
     
     i = 0
     # Number of iterations defines accuracy
-    maxIterations = 60
+    maxIterations = 10000
     while (x**2 != n and i < maxIterations):
         if (x**2 > n):
             x -= shift
